@@ -4,8 +4,8 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
 		id="com.game.eskillsgame"
 		version="0.0.1">
-	<name>eskillsgame</name>
-		<gap:platform name="android" />
+	<name>Shannons Eskills Memory Game</name>
+		<description>Shannon 2014</description>
 		<gap:platform name="ios" />
 		<preference name="orientation" value="portrait" />
 		<preference name="fullscreen" value="true" />
